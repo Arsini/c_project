@@ -47,7 +47,7 @@
     "vue-template-compiler": "^2.5.7",
     "webpack": "^3.8.1",
     "webpack-bundle-analyzer": "^3.0.2",
-    "webpack-dev-server": "2.11.2",
+    "webpack-dev-server": "3.1.11",
     "webpack-merge": "^4.1.4"
   },
   "babel": {
